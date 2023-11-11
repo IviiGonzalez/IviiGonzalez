@@ -31,6 +31,12 @@
 </div>
 
 ---
+<p aling="center">
+ <h3 align="center">Proyecto curso de testing manual</h3>
+ <a href="https://docs.google.com/document/d/1aWQthGW4W8fof2Ux2YoRUiqmRe9c3rMh/edit?usp=sharing&ouid=107343510704813037983&rtpof=true&sd=true"></a>
+</p>
+
+
  <h3 align ="center">Conéctate conmigo:</h3>
  <p align="center">
   <a href="https://twitter.com/@ivii_gonzalez" target="_blank"> <img src="https://img.icons8.com/nolan/64/twitterx.png" alt="twitterx"></a>
